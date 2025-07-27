@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-**TravelSAV1** is a private tour operator based in South Africa. We offer immersive, custom travel experiences for international travelers interested in Cape Town and luxury safari getaways. This prototype site serves as a demonstration of how clients can explore and book their next adventure with ease.
+**Travelsa** is a private tour operator based in South Africa. We offer immersive, custom travel experiences for international travelers interested in Cape Town and luxury safari getaways. This prototype site serves as a demonstration of how clients can explore and book their next adventure with ease.
 
 ---
 
